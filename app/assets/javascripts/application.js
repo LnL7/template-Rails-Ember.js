@@ -14,7 +14,7 @@
 //= require jquery
 //= require jquery_ujs
 
-//= require ember
+//= require ./vendor/ember
 
 //= require ember/app
 
