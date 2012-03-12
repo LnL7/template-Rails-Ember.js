@@ -5,4 +5,5 @@
 #= require_tree ./helpers
 #= require_tree ./templates
 
-window.App = Ember.Application.create()
+App = Ember.Application.create()
+@App = App
