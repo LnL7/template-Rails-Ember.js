@@ -5,4 +5,4 @@
 #= require_tree ./helpers
 #= require_tree ./templates
 
-window.REmber1 = Ember.Application.create()
+window.App = Ember.Application.create()
