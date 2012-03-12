@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require ember
+//= require ember/r_ember1
 //= require_tree .
